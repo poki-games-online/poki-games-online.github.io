@@ -1,4 +1,4 @@
-"homepage": "https://your-username.github.io/poki-games-online",
+"homepage": "https://poki-games-online.github.io/poki-games-online",
 "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
